@@ -42,11 +42,6 @@ console.log(result2);
 */
 ```
 
-## types
-```ts
-/// <reference types="@jswork/reorder-list/global.d.ts" />
-```
-
 ## license
 Code released under [the MIT license](https://github.com/afeiship/reorder-list/blob/master/LICENSE.txt).
 
