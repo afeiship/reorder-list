@@ -1,6 +1,6 @@
 {
   "name": "@jswork/reorder-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reorder items by ids.",
   "main": "./dist/index.cjs.js",
   "module": "./dist/index.esm.js",
@@ -31,5 +31,11 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "array",
+    "items",
+    "list",
+    "reorder"
+  ]
 }
